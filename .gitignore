@@ -1,0 +1,14 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+drivers/
+
+# Generated Spark data
+data_lake/bronze/
+data_lake/silver/
+data_lake/gold/
+
+# Logs
+logs/
